@@ -1,0 +1,43 @@
+{
+  "name": "d3-v4-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnaud PEZEL <arnaud@apyx.fr> (http://www.apyx.fr)",
+  "license": "ISC",
+  "dependencies": {
+    "@types/d3-array": "latest",
+    "@types/d3-axis": "latest",
+    "@types/d3-brush": "latest",
+    "@types/d3-chord": "latest",
+    "@types/d3-collection": "latest",
+    "@types/d3-color": "latest",
+    "@types/d3-dispatch": "latest",
+    "@types/d3-drag": "latest",
+    "@types/d3-dsv": "latest",
+    "@types/d3-ease": "latest",
+    "@types/d3-force": "latest",
+    "@types/d3-format": "latest",
+    "@types/d3-geo": "latest",
+    "@types/d3-hierarchy": "latest",
+    "@types/d3-interpolate": "latest",
+    "@types/d3-path": "latest",
+    "@types/d3-polygon": "latest",
+    "@types/d3-quadtree": "latest",
+    "@types/d3-queue": "latest",
+    "@types/d3-random": "latest",
+    "@types/d3-request": "latest",
+    "@types/d3-scale": "latest",
+    "@types/d3-selection": "latest",
+    "@types/d3-shape": "latest",
+    "@types/d3-time": "latest",
+    "@types/d3-time-format": "latest",
+    "@types/d3-timer": "latest",
+    "@types/d3-transition": "latest",
+    "@types/d3-voronoi": "latest",
+    "@types/d3-zoom": "latest"
+  }
+}
