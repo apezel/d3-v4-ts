@@ -32,6 +32,7 @@
     "@types/d3-request": "latest",
     "@types/d3-scale": "latest",
     "@types/d3-selection": "latest",
+    "@types/d3-selection-multi": "latest",
     "@types/d3-shape": "latest",
     "@types/d3-time": "latest",
     "@types/d3-time-format": "latest",
